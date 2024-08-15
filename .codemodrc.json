@@ -1,7 +1,7 @@
 {
   "$schema": "https://codemod-utils.s3.us-west-1.amazonaws.com/configuration_schema.json",
   "name": "array-to-set-conversion",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "engine": "jscodeshift",
   "private": false,
   "arguments": [],
@@ -9,6 +9,7 @@
     "tags": [
       "array",
       "set"
-    ]
+    ],
+    "git": "https://github.com/dfordp/array-to-set-codemod.git"
   }
 }

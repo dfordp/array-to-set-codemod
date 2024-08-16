@@ -1,6 +1,6 @@
 {
   "$schema": "https://codemod-utils.s3.us-west-1.amazonaws.com/configuration_schema.json",
-  "name": "array-To-set-conversion",
+  "name": "array-to-set-conversion",
   "version": "1.0.4",
   "engine": "jscodeshift",
   "private": false,

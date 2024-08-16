@@ -1,6 +1,4 @@
-Short description
-
-Detailed description
+A codemod which makes the array search operation more optimal and efficient, by converting the array into a set and executing the set's has method to find the desired element.
 
 ## Example
 

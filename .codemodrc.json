@@ -8,7 +8,9 @@
   "meta": {
     "tags": [
       "best practice",
-      "performance"
+      "performance",
+      "set",
+      "array"
     ],
     "git": "https://github.com/dfordp/array-to-set-codemod.git"
   }

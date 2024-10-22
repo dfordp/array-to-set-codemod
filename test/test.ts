@@ -20,7 +20,7 @@ const buildApi = (parser: string | undefined): API => ({
   },
 });
 
-describe('array-to-set-conversion', () => {
+describe('javascript/1.0/replace-includes-with-set-has', () => {
   it('test #1', async () => {
     const INPUT = await readFile(join(__dirname, '..', '__testfixtures__/fixture1.input.ts'), 'utf-8');
     const OUTPUT = await readFile(join(__dirname, '..', '__testfixtures__/fixture1.output.ts'), 'utf-8');

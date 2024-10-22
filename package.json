@@ -1,5 +1,5 @@
 {
-  "name": "array-to-set-conversion",
+  "name": "javascript-1-0-replace-includes-with-set-has",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "20.9.0",

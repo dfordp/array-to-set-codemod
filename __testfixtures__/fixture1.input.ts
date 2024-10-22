@@ -1,8 +1,3 @@
-// Initialize an array with some elements
-const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-
-// Element to check
-const elementToCheck = 5;
-
-// Check if the element exists in the array
-const isElementInArray = array.includes(elementToCheck);
+//intialize a set using the elements of that array
+//check in the set instead of the array and use the has method instead of the includes method
+const isElmement = array.includes(elementToCheck);

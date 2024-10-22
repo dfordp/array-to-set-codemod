@@ -12,6 +12,6 @@
       "set",
       "array"
     ],
-    "git": "https://github.com/dfordp/array-to-set-codemod.git"
+    "git": "https://github.com/dfordp/array-to-set-codemod"
   }
 }
